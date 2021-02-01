@@ -1,0 +1,16 @@
+p {
+    text-align: center;
+    color: red;
+}
+#paginatitel {
+    text-decoration: underline;
+}
+.center {
+    text-align: center;
+    color: red;
+}
+div ul li {
+    background-color: red;
+    color: orange;
+    font-size: 20px;
+}
